@@ -1,6 +1,7 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import Live2dViewer from '../src/Live2dViewer';
-import { Box, Select, MenuItem, FormControl, InputLabel, SelectChangeEvent } from "@mui/material";
+import type { SelectChangeEvent } from "@mui/material";
+import { Box, Select, MenuItem, FormControl, InputLabel } from "@mui/material";
 
 interface ModelOptions {
 	expressions: string[];

@@ -1,14 +1,14 @@
 {
 	"name": "ena-live2d-viewer",
 	"version": "0.0.0",
-	"main": "dist/index.js",
-	"type": "module",
+	"main": "dist/index.mjs",
+	"types": "dist/index.d.ts",
 	"files": [
 		"dist"
 	],
 	"scripts": {
 		"dev": "vite",
-		"build": "tsc -b && vite build",
+		"build": "vite build",
 		"lint": "eslint .",
 		"preview": "vite preview"
 	},
@@ -33,6 +33,7 @@
 		"globals": "^16.3.0",
 		"typescript": "~5.8.3",
 		"typescript-eslint": "^8.35.1",
-		"vite": "^7.0.4"
+		"vite": "^7.0.4",
+		"vite-plugin-dts": "^4.5.4"
 	}
 }

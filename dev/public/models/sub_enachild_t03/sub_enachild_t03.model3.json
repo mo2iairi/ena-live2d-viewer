@@ -1,1445 +1,1445 @@
 {
-  "FileReferences": {
-    "Moc": "sub_enachild_t03.moc3",
-    "Motions": {
-      "c-child-angry01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-angry01.motion3.json"
-        }
-      ],
-      "c-child-angry02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-angry02.motion3.json"
-        }
-      ],
-      "c-child-angry03": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-angry03.motion3.json"
-        }
-      ],
-      "c-child-angry04": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-angry04.motion3.json"
-        }
-      ],
-      "c-child-angry05": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-angry05.motion3.json"
-        }
-      ],
-      "c-child-forward01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-forward01.motion3.json"
-        }
-      ],
-      "c-child-forward02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-forward02.motion3.json"
-        }
-      ],
-      "c-child-lookaway01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-lookaway01.motion3.json"
-        }
-      ],
-      "c-child-nod01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-nod01.motion3.json"
-        }
-      ],
-      "c-child-nod02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-nod02.motion3.json"
-        }
-      ],
-      "c-child-nod03": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-nod03.motion3.json"
-        }
-      ],
-      "c-child-nod04": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-nod04.motion3.json"
-        }
-      ],
-      "c-child-nod05": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-nod05.motion3.json"
-        }
-      ],
-      "c-child-nod07": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-nod07.motion3.json"
-        }
-      ],
-      "c-child-pose01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-pose01.motion3.json"
-        }
-      ],
-      "c-child-pose02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-pose02.motion3.json"
-        }
-      ],
-      "c-child-pose03": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-pose03.motion3.json"
-        }
-      ],
-      "c-child-pose04": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-pose04.motion3.json"
-        }
-      ],
-      "c-child-pose05": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-pose05.motion3.json"
-        }
-      ],
-      "c-child-pose06": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-pose06.motion3.json"
-        }
-      ],
-      "c-child-sad01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-sad01.motion3.json"
-        }
-      ],
-      "c-child-sad02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-sad02.motion3.json"
-        }
-      ],
-      "c-child-shakehead01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-shakehead01.motion3.json"
-        }
-      ],
-      "c-child-shakehead02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-shakehead02.motion3.json"
-        }
-      ],
-      "c-child-shakehead03": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-shakehead03.motion3.json"
-        }
-      ],
-      "c-child-shakehead04": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-shakehead04.motion3.json"
-        }
-      ],
-      "c-child-shakehead05": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-shakehead05.motion3.json"
-        }
-      ],
-      "c-child-tilthead01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-tilthead01.motion3.json"
-        }
-      ],
-      "c-child-tilthead02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-tilthead02.motion3.json"
-        }
-      ],
-      "c-child-tilthead03": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-tilthead03.motion3.json"
-        }
-      ],
-      "c-child-tilthead04": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-tilthead04.motion3.json"
-        }
-      ],
-      "c-child-tilthead05": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-tilthead05.motion3.json"
-        }
-      ],
-      "c-child-tilthead06": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-tilthead06.motion3.json"
-        }
-      ],
-      "c-child-tilthead07": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/c-child-tilthead07.motion3.json"
-        }
-      ],
-      "w-cool02-guts": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool02-guts.motion3.json"
-        }
-      ],
-      "w-cool02-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool02-tilthead.motion3.json"
-        }
-      ],
-      "w-cool0213-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool0213-tilthead.motion3.json"
-        }
-      ],
-      "w-cool06-blushed": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool06-blushed.motion3.json"
-        }
-      ],
-      "w-cool06-nod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool06-nod.motion3.json"
-        }
-      ],
-      "w-cool06-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool06-pose.motion3.json"
-        }
-      ],
-      "w-cool06-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool06-tilthead.motion3.json"
-        }
-      ],
-      "w-cool09-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool09-pose.motion3.json"
-        }
-      ],
-      "w-cool09-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool09-tilthead.motion3.json"
-        }
-      ],
-      "w-cool0913-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool0913-tilthead.motion3.json"
-        }
-      ],
-      "w-cool09normal15-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool09normal15-tilthead.motion3.json"
-        }
-      ],
-      "w-cool10-angry": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool10-angry.motion3.json"
-        }
-      ],
-      "w-cool10-forward": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool10-forward.motion3.json"
-        }
-      ],
-      "w-cool10-nod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool10-nod.motion3.json"
-        }
-      ],
-      "w-cool10-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool10-pose.motion3.json"
-        }
-      ],
-      "w-cool10-shakehead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool10-shakehead.motion3.json"
-        }
-      ],
-      "w-cool10-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool10-tilthead.motion3.json"
-        }
-      ],
-      "w-cool10-trouble": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool10-trouble.motion3.json"
-        }
-      ],
-      "w-cool1013-nodtilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool1013-nodtilthead.motion3.json"
-        }
-      ],
-      "w-cool13-forward": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool13-forward.motion3.json"
-        }
-      ],
-      "w-cool13-nod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool13-nod.motion3.json"
-        }
-      ],
-      "w-cool13-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool13-pose.motion3.json"
-        }
-      ],
-      "w-cool13-shakehead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool13-shakehead.motion3.json"
-        }
-      ],
-      "w-cool13-sigh": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool13-sigh.motion3.json"
-        }
-      ],
-      "w-cool13-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool13-tilthead.motion3.json"
-        }
-      ],
-      "w-cool16-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool16-pose.motion3.json"
-        }
-      ],
-      "w-cool16-sad": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cool16-sad.motion3.json"
-        }
-      ],
-      "w-cute01-delicious02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute01-delicious02.motion3.json"
-        }
-      ],
-      "w-cute01-forward03": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute01-forward03.motion3.json"
-        }
-      ],
-      "w-cute01-glad": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute01-glad.motion3.json"
-        }
-      ],
-      "w-cute01-glad03": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute01-glad03.motion3.json"
-        }
-      ],
-      "w-cute01-nod04": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute01-nod04.motion3.json"
-        }
-      ],
-      "w-cute01-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute01-pose.motion3.json"
-        }
-      ],
-      "w-cute01-shy": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute01-shy.motion3.json"
-        }
-      ],
-      "w-cute01-sleep05": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute01-sleep05.motion3.json"
-        }
-      ],
-      "w-cute01-sleep05B": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute01-sleep05B.motion3.json"
-        }
-      ],
-      "w-cute01-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute01-tilthead.motion3.json"
-        }
-      ],
-      "w-cute01-tilthead02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute01-tilthead02.motion3.json"
-        }
-      ],
-      "w-cute02-forward": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute02-forward.motion3.json"
-        }
-      ],
-      "w-cute02-glad": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute02-glad.motion3.json"
-        }
-      ],
-      "w-cute02-guts": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute02-guts.motion3.json"
-        }
-      ],
-      "w-cute02-nod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute02-nod.motion3.json"
-        }
-      ],
-      "w-cute02-nodB": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute02-nodB.motion3.json"
-        }
-      ],
-      "w-cute02-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute02-pose.motion3.json"
-        }
-      ],
-      "w-cute02-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute02-tilthead.motion3.json"
-        }
-      ],
-      "w-cute02-wink": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute02-wink.motion3.json"
-        }
-      ],
-      "w-cute11-bright": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-bright.motion3.json"
-        }
-      ],
-      "w-cute11-delicious": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-delicious.motion3.json"
-        }
-      ],
-      "w-cute11-deliciousB": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-deliciousB.motion3.json"
-        }
-      ],
-      "w-cute11-fidget02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-fidget02.motion3.json"
-        }
-      ],
-      "w-cute11-forward": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-forward.motion3.json"
-        }
-      ],
-      "w-cute11-glad": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-glad.motion3.json"
-        }
-      ],
-      "w-cute11-glad02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-glad02.motion3.json"
-        }
-      ],
-      "w-cute11-guts": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-guts.motion3.json"
-        }
-      ],
-      "w-cute11-nbforward": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-nbforward.motion3.json"
-        }
-      ],
-      "w-cute11-nbglad02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-nbglad02.motion3.json"
-        }
-      ],
-      "w-cute11-nbshy02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-nbshy02.motion3.json"
-        }
-      ],
-      "w-cute11-nbtilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-nbtilthead.motion3.json"
-        }
-      ],
-      "w-cute11-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-pose.motion3.json"
-        }
-      ],
-      "w-cute11-shy02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-shy02.motion3.json"
-        }
-      ],
-      "w-cute11-shy02B": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-shy02B.motion3.json"
-        }
-      ],
-      "w-cute11-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-tilthead.motion3.json"
-        }
-      ],
-      "w-cute11-tilthead02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-tilthead02.motion3.json"
-        }
-      ],
-      "w-cute11-wink": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11-wink.motion3.json"
-        }
-      ],
-      "w-cute11normal15-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute11normal15-tilthead.motion3.json"
-        }
-      ],
-      "w-cute12-nbnod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute12-nbnod.motion3.json"
-        }
-      ],
-      "w-cute12-nod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute12-nod.motion3.json"
-        }
-      ],
-      "w-cute12-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute12-pose.motion3.json"
-        }
-      ],
-      "w-cute12-shakehead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute12-shakehead.motion3.json"
-        }
-      ],
-      "w-cute12-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute12-tilthead.motion3.json"
-        }
-      ],
-      "w-cute13-angry": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute13-angry.motion3.json"
-        }
-      ],
-      "w-cute13-forward": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute13-forward.motion3.json"
-        }
-      ],
-      "w-cute13-nod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute13-nod.motion3.json"
-        }
-      ],
-      "w-cute13-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute13-tilthead.motion3.json"
-        }
-      ],
-      "w-cute14-nod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute14-nod.motion3.json"
-        }
-      ],
-      "w-cute14-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute14-pose.motion3.json"
-        }
-      ],
-      "w-cute14-shakehead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute14-shakehead.motion3.json"
-        }
-      ],
-      "w-cute14-smug": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute14-smug.motion3.json"
-        }
-      ],
-      "w-cute14-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-cute14-tilthead.motion3.json"
-        }
-      ],
-      "w-normal01-glad": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal01-glad.motion3.json"
-        }
-      ],
-      "w-normal01-guts": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal01-guts.motion3.json"
-        }
-      ],
-      "w-normal01-nod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal01-nod.motion3.json"
-        }
-      ],
-      "w-normal01-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal01-pose.motion3.json"
-        }
-      ],
-      "w-normal01-purpose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal01-purpose.motion3.json"
-        }
-      ],
-      "w-normal01-shakehead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal01-shakehead.motion3.json"
-        }
-      ],
-      "w-normal01-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal01-tilthead.motion3.json"
-        }
-      ],
-      "w-normal0103-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal0103-tilthead.motion3.json"
-        }
-      ],
-      "w-normal0107-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal0107-tilthead.motion3.json"
-        }
-      ],
-      "w-normal0115-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal0115-tilthead.motion3.json"
-        }
-      ],
-      "w-normal02-shakehead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal02-shakehead.motion3.json"
-        }
-      ],
-      "w-normal03-blushed": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal03-blushed.motion3.json"
-        }
-      ],
-      "w-normal03-forward": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal03-forward.motion3.json"
-        }
-      ],
-      "w-normal03-lookleft": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal03-lookleft.motion3.json"
-        }
-      ],
-      "w-normal03-lookright": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal03-lookright.motion3.json"
-        }
-      ],
-      "w-normal03-nod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal03-nod.motion3.json"
-        }
-      ],
-      "w-normal03-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal03-pose.motion3.json"
-        }
-      ],
-      "w-normal03-relief": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal03-relief.motion3.json"
-        }
-      ],
-      "w-normal03-shakehead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal03-shakehead.motion3.json"
-        }
-      ],
-      "w-normal03-shakeheadB": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal03-shakeheadB.motion3.json"
-        }
-      ],
-      "w-normal03-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal03-tilthead.motion3.json"
-        }
-      ],
-      "w-normal03-tiltheadB": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal03-tiltheadB.motion3.json"
-        }
-      ],
-      "w-normal03-trouble": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal03-trouble.motion3.json"
-        }
-      ],
-      "w-normal0301-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal0301-tilthead.motion3.json"
-        }
-      ],
-      "w-normal0316-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal0316-tilthead.motion3.json"
-        }
-      ],
-      "w-normal04-blushed": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal04-blushed.motion3.json"
-        }
-      ],
-      "w-normal04-forward": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal04-forward.motion3.json"
-        }
-      ],
-      "w-normal04-nod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal04-nod.motion3.json"
-        }
-      ],
-      "w-normal04-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal04-pose.motion3.json"
-        }
-      ],
-      "w-normal04-relief": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal04-relief.motion3.json"
-        }
-      ],
-      "w-normal04-shakehead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal04-shakehead.motion3.json"
-        }
-      ],
-      "w-normal04-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal04-tilthead.motion3.json"
-        }
-      ],
-      "w-normal04-trouble": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal04-trouble.motion3.json"
-        }
-      ],
-      "w-normal07-nod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal07-nod.motion3.json"
-        }
-      ],
-      "w-normal07-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal07-pose.motion3.json"
-        }
-      ],
-      "w-normal07-sad": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal07-sad.motion3.json"
-        }
-      ],
-      "w-normal07-shakehead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal07-shakehead.motion3.json"
-        }
-      ],
-      "w-normal07-sigh": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal07-sigh.motion3.json"
-        }
-      ],
-      "w-normal07-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal07-tilthead.motion3.json"
-        }
-      ],
-      "w-normal0701-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal0701-tilthead.motion3.json"
-        }
-      ],
-      "w-normal07cool02-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal07cool02-tilthead.motion3.json"
-        }
-      ],
-      "w-normal08-nod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal08-nod.motion3.json"
-        }
-      ],
-      "w-normal08-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal08-pose.motion3.json"
-        }
-      ],
-      "w-normal08-sad": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal08-sad.motion3.json"
-        }
-      ],
-      "w-normal08-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal08-tilthead.motion3.json"
-        }
-      ],
-      "w-normal15-greeting": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal15-greeting.motion3.json"
-        }
-      ],
-      "w-normal15-lookaround": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal15-lookaround.motion3.json"
-        }
-      ],
-      "w-normal15-lookleft": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal15-lookleft.motion3.json"
-        }
-      ],
-      "w-normal15-lookright": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal15-lookright.motion3.json"
-        }
-      ],
-      "w-normal15-nod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal15-nod.motion3.json"
-        }
-      ],
-      "w-normal15-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal15-pose.motion3.json"
-        }
-      ],
-      "w-normal15-shakehead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal15-shakehead.motion3.json"
-        }
-      ],
-      "w-normal15-shy": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal15-shy.motion3.json"
-        }
-      ],
-      "w-normal15-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal15-tilthead.motion3.json"
-        }
-      ],
-      "w-normal1501-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal1501-tilthead.motion3.json"
-        }
-      ],
-      "w-normal1503-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal1503-tilthead.motion3.json"
-        }
-      ],
-      "w-normal16-angry": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal16-angry.motion3.json"
-        }
-      ],
-      "w-normal16-forward": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal16-forward.motion3.json"
-        }
-      ],
-      "w-normal16-nod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal16-nod.motion3.json"
-        }
-      ],
-      "w-normal16-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal16-pose.motion3.json"
-        }
-      ],
-      "w-normal16-shakehead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal16-shakehead.motion3.json"
-        }
-      ],
-      "w-normal16-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal16-tilthead.motion3.json"
-        }
-      ],
-      "w-normal1603-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal1603-tilthead.motion3.json"
-        }
-      ],
-      "w-normal1605-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal1605-tilthead.motion3.json"
-        }
-      ],
-      "w-normal1607-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal1607-tilthead.motion3.json"
-        }
-      ],
-      "w-normal16cute12-nodshakehead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal16cute12-nodshakehead.motion3.json"
-        }
-      ],
-      "w-normal17-fidget": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal17-fidget.motion3.json"
-        }
-      ],
-      "w-normal17-forward": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal17-forward.motion3.json"
-        }
-      ],
-      "w-normal17-nod": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal17-nod.motion3.json"
-        }
-      ],
-      "w-normal17-pose": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal17-pose.motion3.json"
-        }
-      ],
-      "w-normal17-shakehead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal17-shakehead.motion3.json"
-        }
-      ],
-      "w-normal17-tilthead": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/w-normal17-tilthead.motion3.json"
-        }
-      ],
-      "face_angry_01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_angry_01.motion3.json"
-        }
-      ],
-      "face_closeeye_01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_closeeye_01.motion3.json"
-        }
-      ],
-      "face_closeeye_02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_closeeye_02.motion3.json"
-        }
-      ],
-      "face_disgust_01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_disgust_01.motion3.json"
-        }
-      ],
-      "face_normal_01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_normal_01.motion3.json"
-        }
-      ],
-      "face_normal_02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_normal_02.motion3.json"
-        }
-      ],
-      "face_sad_01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_sad_01.motion3.json"
-        }
-      ],
-      "face_serious_01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_serious_01.motion3.json"
-        }
-      ],
-      "face_smallmouth_01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_smallmouth_01.motion3.json"
-        }
-      ],
-      "face_smile_01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_smile_01.motion3.json"
-        }
-      ],
-      "face_smile_02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_smile_02.motion3.json"
-        }
-      ],
-      "face_smile_03": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_smile_03.motion3.json"
-        }
-      ],
-      "face_smile_04": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_smile_04.motion3.json"
-        }
-      ],
-      "face_smile_05": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_smile_05.motion3.json"
-        }
-      ],
-      "face_smile_06": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_smile_06.motion3.json"
-        }
-      ],
-      "face_surprise_01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_surprise_01.motion3.json"
-        }
-      ],
-      "face_surprise_02": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_surprise_02.motion3.json"
-        }
-      ],
-      "face_trouble_01": [
-        {
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5,
-          "File": "motions/face_trouble_01.motion3.json"
-        }
-      ]
-    },
-    "Physics": "sub_enachild_t03.physics3.json",
-    "Textures": [
-      "sub_enachild_t03.2048/texture_00.png"
-    ]
-  },
-  "Groups": [
-    {
-      "Ids": [],
-      "Name": "EyeBlink",
-      "Target": "Parameter"
-    },
-    {
-      "Ids": [],
-      "Name": "LipSync",
-      "Target": "Parameter"
-    }
-  ],
-  "Version": 3
+	"FileReferences": {
+		"Moc": "sub_enachild_t03.moc3",
+		"Motions": {
+			"c-child-angry01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-angry01.motion3.json"
+				}
+			],
+			"c-child-angry02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-angry02.motion3.json"
+				}
+			],
+			"c-child-angry03": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-angry03.motion3.json"
+				}
+			],
+			"c-child-angry04": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-angry04.motion3.json"
+				}
+			],
+			"c-child-angry05": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-angry05.motion3.json"
+				}
+			],
+			"c-child-forward01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-forward01.motion3.json"
+				}
+			],
+			"c-child-forward02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-forward02.motion3.json"
+				}
+			],
+			"c-child-lookaway01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-lookaway01.motion3.json"
+				}
+			],
+			"c-child-nod01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-nod01.motion3.json"
+				}
+			],
+			"c-child-nod02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-nod02.motion3.json"
+				}
+			],
+			"c-child-nod03": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-nod03.motion3.json"
+				}
+			],
+			"c-child-nod04": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-nod04.motion3.json"
+				}
+			],
+			"c-child-nod05": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-nod05.motion3.json"
+				}
+			],
+			"c-child-nod07": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-nod07.motion3.json"
+				}
+			],
+			"c-child-pose01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-pose01.motion3.json"
+				}
+			],
+			"c-child-pose02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-pose02.motion3.json"
+				}
+			],
+			"c-child-pose03": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-pose03.motion3.json"
+				}
+			],
+			"c-child-pose04": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-pose04.motion3.json"
+				}
+			],
+			"c-child-pose05": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-pose05.motion3.json"
+				}
+			],
+			"c-child-pose06": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-pose06.motion3.json"
+				}
+			],
+			"c-child-sad01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-sad01.motion3.json"
+				}
+			],
+			"c-child-sad02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-sad02.motion3.json"
+				}
+			],
+			"c-child-shakehead01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-shakehead01.motion3.json"
+				}
+			],
+			"c-child-shakehead02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-shakehead02.motion3.json"
+				}
+			],
+			"c-child-shakehead03": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-shakehead03.motion3.json"
+				}
+			],
+			"c-child-shakehead04": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-shakehead04.motion3.json"
+				}
+			],
+			"c-child-shakehead05": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-shakehead05.motion3.json"
+				}
+			],
+			"c-child-tilthead01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-tilthead01.motion3.json"
+				}
+			],
+			"c-child-tilthead02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-tilthead02.motion3.json"
+				}
+			],
+			"c-child-tilthead03": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-tilthead03.motion3.json"
+				}
+			],
+			"c-child-tilthead04": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-tilthead04.motion3.json"
+				}
+			],
+			"c-child-tilthead05": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-tilthead05.motion3.json"
+				}
+			],
+			"c-child-tilthead06": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-tilthead06.motion3.json"
+				}
+			],
+			"c-child-tilthead07": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/c-child-tilthead07.motion3.json"
+				}
+			],
+			"w-cool02-guts": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool02-guts.motion3.json"
+				}
+			],
+			"w-cool02-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool02-tilthead.motion3.json"
+				}
+			],
+			"w-cool0213-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool0213-tilthead.motion3.json"
+				}
+			],
+			"w-cool06-blushed": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool06-blushed.motion3.json"
+				}
+			],
+			"w-cool06-nod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool06-nod.motion3.json"
+				}
+			],
+			"w-cool06-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool06-pose.motion3.json"
+				}
+			],
+			"w-cool06-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool06-tilthead.motion3.json"
+				}
+			],
+			"w-cool09-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool09-pose.motion3.json"
+				}
+			],
+			"w-cool09-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool09-tilthead.motion3.json"
+				}
+			],
+			"w-cool0913-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool0913-tilthead.motion3.json"
+				}
+			],
+			"w-cool09normal15-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool09normal15-tilthead.motion3.json"
+				}
+			],
+			"w-cool10-angry": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool10-angry.motion3.json"
+				}
+			],
+			"w-cool10-forward": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool10-forward.motion3.json"
+				}
+			],
+			"w-cool10-nod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool10-nod.motion3.json"
+				}
+			],
+			"w-cool10-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool10-pose.motion3.json"
+				}
+			],
+			"w-cool10-shakehead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool10-shakehead.motion3.json"
+				}
+			],
+			"w-cool10-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool10-tilthead.motion3.json"
+				}
+			],
+			"w-cool10-trouble": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool10-trouble.motion3.json"
+				}
+			],
+			"w-cool1013-nodtilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool1013-nodtilthead.motion3.json"
+				}
+			],
+			"w-cool13-forward": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool13-forward.motion3.json"
+				}
+			],
+			"w-cool13-nod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool13-nod.motion3.json"
+				}
+			],
+			"w-cool13-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool13-pose.motion3.json"
+				}
+			],
+			"w-cool13-shakehead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool13-shakehead.motion3.json"
+				}
+			],
+			"w-cool13-sigh": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool13-sigh.motion3.json"
+				}
+			],
+			"w-cool13-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool13-tilthead.motion3.json"
+				}
+			],
+			"w-cool16-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool16-pose.motion3.json"
+				}
+			],
+			"w-cool16-sad": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cool16-sad.motion3.json"
+				}
+			],
+			"w-cute01-delicious02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute01-delicious02.motion3.json"
+				}
+			],
+			"w-cute01-forward03": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute01-forward03.motion3.json"
+				}
+			],
+			"w-cute01-glad": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute01-glad.motion3.json"
+				}
+			],
+			"w-cute01-glad03": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute01-glad03.motion3.json"
+				}
+			],
+			"w-cute01-nod04": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute01-nod04.motion3.json"
+				}
+			],
+			"w-cute01-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute01-pose.motion3.json"
+				}
+			],
+			"w-cute01-shy": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute01-shy.motion3.json"
+				}
+			],
+			"w-cute01-sleep05": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute01-sleep05.motion3.json"
+				}
+			],
+			"w-cute01-sleep05B": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute01-sleep05B.motion3.json"
+				}
+			],
+			"w-cute01-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute01-tilthead.motion3.json"
+				}
+			],
+			"w-cute01-tilthead02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute01-tilthead02.motion3.json"
+				}
+			],
+			"w-cute02-forward": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute02-forward.motion3.json"
+				}
+			],
+			"w-cute02-glad": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute02-glad.motion3.json"
+				}
+			],
+			"w-cute02-guts": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute02-guts.motion3.json"
+				}
+			],
+			"w-cute02-nod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute02-nod.motion3.json"
+				}
+			],
+			"w-cute02-nodB": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute02-nodB.motion3.json"
+				}
+			],
+			"w-cute02-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute02-pose.motion3.json"
+				}
+			],
+			"w-cute02-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute02-tilthead.motion3.json"
+				}
+			],
+			"w-cute02-wink": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute02-wink.motion3.json"
+				}
+			],
+			"w-cute11-bright": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-bright.motion3.json"
+				}
+			],
+			"w-cute11-delicious": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-delicious.motion3.json"
+				}
+			],
+			"w-cute11-deliciousB": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-deliciousB.motion3.json"
+				}
+			],
+			"w-cute11-fidget02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-fidget02.motion3.json"
+				}
+			],
+			"w-cute11-forward": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-forward.motion3.json"
+				}
+			],
+			"w-cute11-glad": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-glad.motion3.json"
+				}
+			],
+			"w-cute11-glad02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-glad02.motion3.json"
+				}
+			],
+			"w-cute11-guts": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-guts.motion3.json"
+				}
+			],
+			"w-cute11-nbforward": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-nbforward.motion3.json"
+				}
+			],
+			"w-cute11-nbglad02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-nbglad02.motion3.json"
+				}
+			],
+			"w-cute11-nbshy02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-nbshy02.motion3.json"
+				}
+			],
+			"w-cute11-nbtilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-nbtilthead.motion3.json"
+				}
+			],
+			"w-cute11-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-pose.motion3.json"
+				}
+			],
+			"w-cute11-shy02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-shy02.motion3.json"
+				}
+			],
+			"w-cute11-shy02B": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-shy02B.motion3.json"
+				}
+			],
+			"w-cute11-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-tilthead.motion3.json"
+				}
+			],
+			"w-cute11-tilthead02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-tilthead02.motion3.json"
+				}
+			],
+			"w-cute11-wink": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11-wink.motion3.json"
+				}
+			],
+			"w-cute11normal15-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute11normal15-tilthead.motion3.json"
+				}
+			],
+			"w-cute12-nbnod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute12-nbnod.motion3.json"
+				}
+			],
+			"w-cute12-nod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute12-nod.motion3.json"
+				}
+			],
+			"w-cute12-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute12-pose.motion3.json"
+				}
+			],
+			"w-cute12-shakehead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute12-shakehead.motion3.json"
+				}
+			],
+			"w-cute12-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute12-tilthead.motion3.json"
+				}
+			],
+			"w-cute13-angry": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute13-angry.motion3.json"
+				}
+			],
+			"w-cute13-forward": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute13-forward.motion3.json"
+				}
+			],
+			"w-cute13-nod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute13-nod.motion3.json"
+				}
+			],
+			"w-cute13-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute13-tilthead.motion3.json"
+				}
+			],
+			"w-cute14-nod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute14-nod.motion3.json"
+				}
+			],
+			"w-cute14-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute14-pose.motion3.json"
+				}
+			],
+			"w-cute14-shakehead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute14-shakehead.motion3.json"
+				}
+			],
+			"w-cute14-smug": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute14-smug.motion3.json"
+				}
+			],
+			"w-cute14-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-cute14-tilthead.motion3.json"
+				}
+			],
+			"w-normal01-glad": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal01-glad.motion3.json"
+				}
+			],
+			"w-normal01-guts": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal01-guts.motion3.json"
+				}
+			],
+			"w-normal01-nod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal01-nod.motion3.json"
+				}
+			],
+			"w-normal01-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal01-pose.motion3.json"
+				}
+			],
+			"w-normal01-purpose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal01-purpose.motion3.json"
+				}
+			],
+			"w-normal01-shakehead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal01-shakehead.motion3.json"
+				}
+			],
+			"w-normal01-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal01-tilthead.motion3.json"
+				}
+			],
+			"w-normal0103-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal0103-tilthead.motion3.json"
+				}
+			],
+			"w-normal0107-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal0107-tilthead.motion3.json"
+				}
+			],
+			"w-normal0115-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal0115-tilthead.motion3.json"
+				}
+			],
+			"w-normal02-shakehead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal02-shakehead.motion3.json"
+				}
+			],
+			"w-normal03-blushed": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal03-blushed.motion3.json"
+				}
+			],
+			"w-normal03-forward": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal03-forward.motion3.json"
+				}
+			],
+			"w-normal03-lookleft": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal03-lookleft.motion3.json"
+				}
+			],
+			"w-normal03-lookright": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal03-lookright.motion3.json"
+				}
+			],
+			"w-normal03-nod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal03-nod.motion3.json"
+				}
+			],
+			"w-normal03-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal03-pose.motion3.json"
+				}
+			],
+			"w-normal03-relief": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal03-relief.motion3.json"
+				}
+			],
+			"w-normal03-shakehead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal03-shakehead.motion3.json"
+				}
+			],
+			"w-normal03-shakeheadB": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal03-shakeheadB.motion3.json"
+				}
+			],
+			"w-normal03-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal03-tilthead.motion3.json"
+				}
+			],
+			"w-normal03-tiltheadB": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal03-tiltheadB.motion3.json"
+				}
+			],
+			"w-normal03-trouble": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal03-trouble.motion3.json"
+				}
+			],
+			"w-normal0301-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal0301-tilthead.motion3.json"
+				}
+			],
+			"w-normal0316-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal0316-tilthead.motion3.json"
+				}
+			],
+			"w-normal04-blushed": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal04-blushed.motion3.json"
+				}
+			],
+			"w-normal04-forward": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal04-forward.motion3.json"
+				}
+			],
+			"w-normal04-nod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal04-nod.motion3.json"
+				}
+			],
+			"w-normal04-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal04-pose.motion3.json"
+				}
+			],
+			"w-normal04-relief": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal04-relief.motion3.json"
+				}
+			],
+			"w-normal04-shakehead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal04-shakehead.motion3.json"
+				}
+			],
+			"w-normal04-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal04-tilthead.motion3.json"
+				}
+			],
+			"w-normal04-trouble": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal04-trouble.motion3.json"
+				}
+			],
+			"w-normal07-nod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal07-nod.motion3.json"
+				}
+			],
+			"w-normal07-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal07-pose.motion3.json"
+				}
+			],
+			"w-normal07-sad": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal07-sad.motion3.json"
+				}
+			],
+			"w-normal07-shakehead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal07-shakehead.motion3.json"
+				}
+			],
+			"w-normal07-sigh": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal07-sigh.motion3.json"
+				}
+			],
+			"w-normal07-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal07-tilthead.motion3.json"
+				}
+			],
+			"w-normal0701-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal0701-tilthead.motion3.json"
+				}
+			],
+			"w-normal07cool02-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal07cool02-tilthead.motion3.json"
+				}
+			],
+			"w-normal08-nod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal08-nod.motion3.json"
+				}
+			],
+			"w-normal08-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal08-pose.motion3.json"
+				}
+			],
+			"w-normal08-sad": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal08-sad.motion3.json"
+				}
+			],
+			"w-normal08-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal08-tilthead.motion3.json"
+				}
+			],
+			"w-normal15-greeting": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal15-greeting.motion3.json"
+				}
+			],
+			"w-normal15-lookaround": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal15-lookaround.motion3.json"
+				}
+			],
+			"w-normal15-lookleft": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal15-lookleft.motion3.json"
+				}
+			],
+			"w-normal15-lookright": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal15-lookright.motion3.json"
+				}
+			],
+			"w-normal15-nod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal15-nod.motion3.json"
+				}
+			],
+			"w-normal15-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal15-pose.motion3.json"
+				}
+			],
+			"w-normal15-shakehead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal15-shakehead.motion3.json"
+				}
+			],
+			"w-normal15-shy": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal15-shy.motion3.json"
+				}
+			],
+			"w-normal15-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal15-tilthead.motion3.json"
+				}
+			],
+			"w-normal1501-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal1501-tilthead.motion3.json"
+				}
+			],
+			"w-normal1503-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal1503-tilthead.motion3.json"
+				}
+			],
+			"w-normal16-angry": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal16-angry.motion3.json"
+				}
+			],
+			"w-normal16-forward": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal16-forward.motion3.json"
+				}
+			],
+			"w-normal16-nod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal16-nod.motion3.json"
+				}
+			],
+			"w-normal16-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal16-pose.motion3.json"
+				}
+			],
+			"w-normal16-shakehead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal16-shakehead.motion3.json"
+				}
+			],
+			"w-normal16-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal16-tilthead.motion3.json"
+				}
+			],
+			"w-normal1603-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal1603-tilthead.motion3.json"
+				}
+			],
+			"w-normal1605-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal1605-tilthead.motion3.json"
+				}
+			],
+			"w-normal1607-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal1607-tilthead.motion3.json"
+				}
+			],
+			"w-normal16cute12-nodshakehead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal16cute12-nodshakehead.motion3.json"
+				}
+			],
+			"w-normal17-fidget": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal17-fidget.motion3.json"
+				}
+			],
+			"w-normal17-forward": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal17-forward.motion3.json"
+				}
+			],
+			"w-normal17-nod": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal17-nod.motion3.json"
+				}
+			],
+			"w-normal17-pose": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal17-pose.motion3.json"
+				}
+			],
+			"w-normal17-shakehead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal17-shakehead.motion3.json"
+				}
+			],
+			"w-normal17-tilthead": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/w-normal17-tilthead.motion3.json"
+				}
+			],
+			"face_angry_01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_angry_01.motion3.json"
+				}
+			],
+			"face_closeeye_01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_closeeye_01.motion3.json"
+				}
+			],
+			"face_closeeye_02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_closeeye_02.motion3.json"
+				}
+			],
+			"face_disgust_01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_disgust_01.motion3.json"
+				}
+			],
+			"face_normal_01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_normal_01.motion3.json"
+				}
+			],
+			"face_normal_02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_normal_02.motion3.json"
+				}
+			],
+			"face_sad_01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_sad_01.motion3.json"
+				}
+			],
+			"face_serious_01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_serious_01.motion3.json"
+				}
+			],
+			"face_smallmouth_01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_smallmouth_01.motion3.json"
+				}
+			],
+			"face_smile_01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_smile_01.motion3.json"
+				}
+			],
+			"face_smile_02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_smile_02.motion3.json"
+				}
+			],
+			"face_smile_03": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_smile_03.motion3.json"
+				}
+			],
+			"face_smile_04": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_smile_04.motion3.json"
+				}
+			],
+			"face_smile_05": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_smile_05.motion3.json"
+				}
+			],
+			"face_smile_06": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_smile_06.motion3.json"
+				}
+			],
+			"face_surprise_01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_surprise_01.motion3.json"
+				}
+			],
+			"face_surprise_02": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_surprise_02.motion3.json"
+				}
+			],
+			"face_trouble_01": [
+				{
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5,
+					"File": "motions/face_trouble_01.motion3.json"
+				}
+			]
+		},
+		"Physics": "sub_enachild_t03.physics3.json",
+		"Textures": [
+			"sub_enachild_t03.2048/texture_00.png"
+		]
+	},
+	"Groups": [
+		{
+			"Ids": [],
+			"Name": "EyeBlink",
+			"Target": "Parameter"
+		},
+		{
+			"Ids": [],
+			"Name": "LipSync",
+			"Target": "Parameter"
+		}
+	],
+	"Version": 3
 }

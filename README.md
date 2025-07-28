@@ -35,22 +35,22 @@ import React from "react";
 import Live2dViewer from 'ena-live2d-viewer';
 
 function App() {
-  return (
-    <Live2dViewer 
-        modelMeta={{
-          width: 500,
-          height: 500,
-          l2dPosX: 0,
-          l2dPosY: 50,
-          l2dscaleX: 1.2,
-          l2dscaleY: 1.2,
-          assetUrl: "models/sub_enachild_t03/sub_enachild_t03.model3.json", 
-        }}
-        motion={motion}
-		    expression={expression}
-      />
-    </div>
-  );
+	return (
+		<Live2dViewer 
+			modelMeta={{
+			width: 500,
+			height: 500,
+			l2dPosX: 0,
+			l2dPosY: 50,
+			l2dscaleX: 1.2,
+			l2dscaleY: 1.2,
+			assetUrl: "models/sub_enachild_t03/sub_enachild_t03.model3.json", 
+			}}
+			motion={motion}
+				expression={expression}
+		/>
+		</div>
+	);
 }
 
 export default App;
@@ -60,14 +60,14 @@ export default App;
 
 资源结构示例：
 ```
-├── models/
-    └── char1/
-        ├── char1.model3.json
-        ├── char1.moc3
-        ├── char1.physics3.json
-        ├── expressions/
-        ├── motions/
-        └── textures/
+└── models/
+	└── char1/
+		├── char1.model3.json
+		├── char1.moc3
+		├── char1.physics3.json
+		├── expressions/
+		├── motions/
+		└── textures/
 ```
 
 ## 许可证
